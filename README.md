@@ -1,4 +1,4 @@
-# a [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# READMEPlease [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
   - [DESCRIPTION](#description)
   - [INSTALLATION](#installation)
@@ -9,17 +9,20 @@
   - [QUESTIONS](#questions) 
 
 ## DESCRIPTION
-a
+It is a README generator using only command line and node.js
 ## INSTALLATION
-a
+no installation
 ## USAGE
-a
+It asks you a series of questions in the command line to create a README
 ## CREDITS
-
+James Steinhauser
 ## TESTS
-a
+By actually answering the questions and creating a README
 ## LICENSE
-https://www.apache.org/licenses/LICENSE-2.0.txt
+https://www.mit.edu/~amini/LICENSE.md
 ## QUESTIONS
 https://github.com/Jsteinhauser-24
 Any further questions Email me at Steinhauserjames3@gmail.com
+
+##video
+https://drive.google.com/file/d/1effmlXP2p6uRw7Jjyw7YAYECiU7aWavt/view

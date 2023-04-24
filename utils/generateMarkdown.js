@@ -31,7 +31,7 @@ function renderLicenseLink(license) {
     return ''
   }
 }
-
+//decided to not use the renderlicensespace function
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
 
