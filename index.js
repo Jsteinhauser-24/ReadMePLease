@@ -38,19 +38,29 @@ return inquirer.prompt([
 };
 
 // TODO: Create a function to write README file
-const writeToFile = ({Title, Description, Installation, Usage, Credits, Tests})=>
-    `## TITLE
-        ${Title}
-    ## DESCRIPTION
-        ${Description}
-    ## INSTALLATION
-        ${Installation}
-    ## USAGE
-        ${Usage}
-    ## CREDITS
-        ${Credits}
-    ## TESTS
-        ${Tests}`
+const writeToFile = ({Title, Description, Installation, Usage, Credits, Tests, license})=>
+    `## ${Title}
+## TABLE OF CONTENTS
+    Description
+    Installation
+    Usage
+    Credits
+    Tests
+## DESCRIPTION
+${Description}
+## INSTALLATION
+${Installation}
+## USAGE
+${Usage}
+## CREDITS
+${Credits}
+## TESTS
+${Tests}
+## LICENSE
+${license}
+## QUESTIONS
+https://github.com/Jsteinhauser-24
+Any further questions Email me at Steinhauserjames3@gmail.com`
 
 // TODO: Create a function to initialize app
 function init() { 
