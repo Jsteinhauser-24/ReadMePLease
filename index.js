@@ -41,6 +41,7 @@ return inquirer.prompt([
         name: 'license',
         choices: ['Apache', 'MIT', 'Mozzilla', 'unlicensed']
     }
+    
 ])
 };
 
